@@ -1,0 +1,8 @@
+{
+  "name": "Daily-Interview-Question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chenshuhong/Daily-Interview-Question.git",
+  "author": "chenshuhong <chenshuhong@dm-ai.cn>",
+  "license": "MIT"
+}
