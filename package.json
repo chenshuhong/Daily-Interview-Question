@@ -1,11 +1,16 @@
 {
-  "name": "Daily-Interview-Question",
+  "name": "daily-interview-question",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/chenshuhong/Daily-Interview-Question.git",
   "author": "chenshuhong <chenshuhong@dm-ai.cn>",
   "license": "MIT",
   "dependencies": {
-    "prettier": "^2.2.0"
+    "commander": "^6.2.0",
+    "prettier": "^2.2.0",
+    "puppeteer": "^5.5.0"
+  },
+  "bin": {
+    "my-cli": "problem/cli/index.js"
   }
 }
